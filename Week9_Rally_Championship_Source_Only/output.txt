@@ -1,0 +1,29 @@
+===== CHAMPIONSHIP STANDINGS =====
+1. Sebastien Ogier (France): 40 points
+2. Kalle Rovanpera (Finland): 40 points
+3. Ott Tanak (Estonia): 30 points
+4. Thierry Neuville (Belgium): 30 points
+===== CHAMPIONSHIP LEADER =====
+Sebastien Ogier with 40 points
+===== CHAMPIONSHIP STATISTICS =====
+Total Drivers: 4
+Total Races: 2
+Average Points Per Driver: 35.00
+Most Successful Country: Finland
+Total Championship Points: 140
+===== RACE RESULTS =====
+Race: Rally Finland (Jyvaskyla, Gravel)
+ Position 1: Sebastien Ogier - 25 points
+ Position 2: Ott Tanak - 18 points
+ Position 3: Kalle Rovanpera - 15 points
+ Position 4: Thierry Neuville - 12 points
+Race: Monte Carlo Rally (Monaco, Asphalt)
+ Position 1: Kalle Rovanpera - 25 points
+ Position 2: Thierry Neuville - 18 points
+ Position 3: Sebastien Ogier - 15 points
+ Position 4: Ott Tanak - 12 points
+===== CAR PERFORMANCE RATINGS =====
+Sebastien Ogier car: Toyota GR Yaris Rally1 (480 HP)
+Performance: 423.0
+Kalle Rovanpera car: Toyota GR Yaris Asphalt (476 HP)
+Performance: 472.2
